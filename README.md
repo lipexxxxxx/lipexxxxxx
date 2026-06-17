@@ -1,9 +1,11 @@
-<h1 align="center"># Hi there, I'm felipe ! 👋<br><br>I am an aspiring software developer at the beginning of my programming journey. I am passionate about technology and constantly looking for new challenges to build my skills. Currently, I am focusing on mastering the fundamentals of coding and exploring modern tech stacks.</h1>
+<h6 align="center">Hi there, I'm felipe <br><br>I am an aspiring software developer at the beginning of my programming journey. I am passionate about technology and constantly looking for new challenges to build my skills. Currently, I am focusing on mastering the fundamentals of coding and exploring modern tech stacks.</h6>
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
 
 ###
@@ -22,16 +24,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lipexxxxxx/lipexxxxxx/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lipexxxxxx/lipexxxxxx/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lipexxxxxx/lipexxxxxx/pacman-output/bomberman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQ3azFzZ2s3NWEzemVhZm5oenlrNDR4YmN2eDV2bGU2cWhvdHo5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j3OL6mSc2FeV0UHMDg/giphy.gif"  />
-</div>
+<img src="https://raw.githubusercontent.com/lipexxxxxx/lipexxxxxx/snake-output/snake.svg" alt="Snake animation" />
 
 ###
